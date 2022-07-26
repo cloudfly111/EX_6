@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EX_6</string>
+    <string name="user_name">姓名: </string>
+    <string name="user_pwd">密碼: </string>
+    <string name="user_weight">體重: </string>
+    <string name="user_height">身高: </string>
+</resources>
